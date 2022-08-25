@@ -1,7 +1,7 @@
 body {
 
   text-align: center;
-  font-family: 'DynaPuff', cursive;
+  font-family: 'Silkscreen', cursive;
   color: #40514E;
 }
 
@@ -31,7 +31,7 @@ hr {
   color: gray;
   width: 4%;
   border-bottom: none;
-  margin: 100px auto;
+  margin: 70px auto;
 }
 
 a{
@@ -52,7 +52,7 @@ a:hover{
 }
 
 .mid-container {
-  margin: 500px 0;
+  margin-top: 70px;
 
 }
 
@@ -84,6 +84,7 @@ padding: 20px 0 20px;
   left: 300px;
   bottom: 300px;
 }
+
 
 .skill1{
   width: 40%;
@@ -133,5 +134,5 @@ text-decoration: none;
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
